@@ -1,1 +1,6 @@
-# Signers
+# Contact Discord: rusocial (794009760755351593)
+![Yubo Proof](https://github.com/piombilubicsr/Signers/assets/154801595/4bf49ef9-8c9a-466f-8abb-bfe2a57f737c)
+![Tiktok Proof](https://github.com/piombilubicsr/Signers/assets/154801595/750f6b42-651c-4430-ac2f-ce68ec843646)
+![Snapchat Proof](https://github.com/piombilubicsr/Signers/assets/154801595/0f092238-0280-4e83-afcd-a4515501403a)
+![Snapchat Device Proof](https://github.com/piombilubicsr/Signers/assets/154801595/7a291593-bae2-4f84-bad6-b5dc6d53d678)
+![Instagram Proof](https://github.com/piombilubicsr/Signers/assets/154801595/3bbdf558-f63b-473a-b457-d1da4fc370e3)
