@@ -14,5 +14,5 @@
 - Recaptcha
 - Yandex
 - Steam
-- Hotmain
+- Hotmail
 - & MORE
