@@ -15,4 +15,5 @@
 - Yandex
 - Steam
 - Hotmail
+- Cloudflare Turnstile Solver (NOT FOR UAM only the regular captcha)
 - & MORE
