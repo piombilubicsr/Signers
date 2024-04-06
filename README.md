@@ -2,7 +2,7 @@
 # Our Site: https://rusocial.io/
 
 # [Social Media Signers]
-![Yubo Proof](https://github.com/piombilubicsr/Signers/assets/154801595/4bf49ef9-8c9a-466f-8abb-bfe2a57f737c)
+![Yubo Proof](https://github.com/piombilubicsr/Signers/assets/154801595/97aab6ca-1214-4010-a826-3d43dadf5e3c)
 ![Tiktok Proof](https://github.com/piombilubicsr/Signers/assets/154801595/86556156-0a69-454e-860d-1f94008b9bf1)
 ![Snapchat Proof](https://github.com/piombilubicsr/Signers/assets/154801595/0f092238-0280-4e83-afcd-a4515501403a)
 ![Snapchat Proof 2](https://github.com/piombilubicsr/Signers/assets/154801595/f21952ba-f94b-4b11-8ce5-559e825f0b9e)
