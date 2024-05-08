@@ -1,7 +1,7 @@
 # Contact Discord: rusocial (794009760755351593)
 # Our Site: https://rusocial.io/
 
-# [Social Media Signers]
+# [Social Media Signers] [Native Signers]
 ![Yubo Proof](https://github.com/piombilubicsr/Signers/assets/154801595/8b5e62dd-7e7b-459d-9366-e38f76c9c2c3)
 ![TikTok Mobile Proof](https://github.com/piombilubicsr/Signers/assets/154801595/73c1b9ab-c44f-4d62-bfcd-4d8dd00adc99)
 ![TikTok Web Proof](https://github.com/piombilubicsr/Signers/assets/154801595/049df36e-f1aa-44db-9c58-b28cd1a2fe01)
@@ -18,3 +18,11 @@
 - Hotmail
 - Cloudflare Turnstile Solver (NOT FOR UAM only the regular captcha)
 - & MORE
+
+# [Sources We Sell For Small Users Who Don't Want Native]
+- Yubo Bridge Source
+- Snapchat Bridge Source (w/ Emu Bypass (optional))
+
+# [Custom Reverse Services]
+- Websites
+- Android Apps
