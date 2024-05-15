@@ -34,3 +34,4 @@
 - Do not insult us
 - No illegal content
 - Be Patient we are most likely in a diffrent timezoen and we have multiple people with work with daily
+- No Refunds
