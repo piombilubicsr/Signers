@@ -1,3 +1,5 @@
+# NOTICE ONLY CONTACT US BELOW DONT FALL VICTIM TO IMPERSONATORS
+
 # Contact Discord: rusocial (794009760755351593)
 # Our Site: https://rusocial.io/
 
