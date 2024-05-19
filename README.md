@@ -33,5 +33,5 @@
 - Do not time waste
 - Do not insult us
 - No illegal content
-- Be Patient we are most likely in a diffrent timezoen and we have multiple people with work with daily
+- Be Patient we are most likely in a diffrent timezone and we have multiple people with work with daily
 - No Refunds
