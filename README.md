@@ -21,9 +21,12 @@
 - Cloudflare Turnstile Solver (NOT FOR UAM only the regular captcha)
 - & MORE
 
+# [Bypasses We Sell]
+- Snapchat Web Attestation Bypass (Working For Register)
+
 # [Sources We Sell For Small Users Who Don't Want Native]
 - Yubo Bridge Source
-- Snapchat Bridge Source (w/ Emu Bypass (optional))
+- Snapchat Bridge Source (Any Version) (w/ Emu Bypass (optional))
 
 # [Custom Reverse Services]
 - Websites
