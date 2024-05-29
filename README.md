@@ -31,6 +31,8 @@
 # [Custom Reverse Services]
 - Websites
 - Android Apps
+- Javascript Deobfuscation
+- NET Deobfuscation
 
 # [TOS]
 - Do not time waste
