@@ -23,6 +23,11 @@
 # [Bypasses We Sell]
 - Snapchat Web Attestation Bypass (Working For Register)
 
+# [Example Bots]
+https://github.com/piombilubicsr/Signers/assets/154801595/602439f8-4a8f-471d-a1b9-fba18a60be65
+
+
+
 # [Sources We Sell For Small Users Who Don't Want Native]
 - Yubo Bridge Source
 - Snapchat Bridge Source (Any Version) (w/ Emu Bypass (optional))
