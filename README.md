@@ -20,13 +20,11 @@
 - Hotmail
 - & MORE
 
-# [Bypasses We Sell]
-- Snapchat Web Attestation Bypass (Working For Register)
+# [Accounts We Sell (Fresh Created)]
+- 1$ Per Fresh Snapchat Account EV + No Ghosting / Locks
 
 # [Example Bots]
 https://github.com/piombilubicsr/Signers/assets/154801595/602439f8-4a8f-471d-a1b9-fba18a60be65
-
-
 
 # [Sources We Sell For Small Users Who Don't Want Native]
 - Yubo Bridge Source
