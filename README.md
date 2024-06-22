@@ -32,8 +32,8 @@ https://github.com/piombilubicsr/Signers/assets/154801595/602439f8-4a8f-471d-a1b
 # [Custom Reverse Services]
 - Websites
 - Android Apps
-- Javascript Deobfuscation
-- NET Deobfuscation
+- Javascript Deobfuscation / Auth Removal
+- NET Deobfuscation / Auth Removal
 
 # [TOS]
 - Do not time waste
