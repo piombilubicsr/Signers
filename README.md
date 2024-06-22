@@ -39,5 +39,5 @@ https://github.com/piombilubicsr/Signers/assets/154801595/602439f8-4a8f-471d-a1b
 - Do not time waste
 - Do not insult us
 - No illegal content
-- Be Patient we are most likely in a diffrent timezone and we have multiple people with work with daily
+- Be Patient we are most likely in a different timezone and we have multiple people with work with daily
 - No Refunds
