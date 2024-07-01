@@ -4,13 +4,13 @@
 # Our Site: https://rusocial.io/
 
 # [Social Media Signers] [Native Signers]
-![Yubo Proof](https://github.com/piombilubicsr/Signers/assets/154801595/8b5e62dd-7e7b-459d-9366-e38f76c9c2c3)
-![TikTok Mobile Proof](https://github.com/piombilubicsr/Signers/assets/154801595/88d12c55-dee4-420c-bd11-d558c0c512d6)
-![TikTok Web Proof](https://github.com/piombilubicsr/Signers/assets/154801595/049df36e-f1aa-44db-9c58-b28cd1a2fe01)
+![Yubo Proof](https://github.com/piombilubicsr/Signers/assets/154801595/ec84c9c4-da9c-4c7c-beb0-093560d4e081)
+![TikTok Mobile Proof](https://github.com/piombilubicsr/Signers/assets/154801595/05ba4bd6-e9ba-4218-b76e-ee9a496a0f7c)
+![TikTok Web Proof](https://github.com/piombilubicsr/Signers/assets/154801595/70d9ed9d-37a3-404f-8436-885571eaad6c)
 ![Snapchat Proof](https://github.com/piombilubicsr/Signers/assets/154801595/0f092238-0280-4e83-afcd-a4515501403a)
 ![Snapchat Proof 2](https://github.com/piombilubicsr/Signers/assets/154801595/f21952ba-f94b-4b11-8ce5-559e825f0b9e)
 ![Snapchat Device Proof](https://github.com/piombilubicsr/Signers/assets/154801595/7a291593-bae2-4f84-bad6-b5dc6d53d678)
-![Instagram Proof](https://github.com/piombilubicsr/Signers/assets/154801595/65211e88-fd11-421a-9349-2034fbc3037a)
+![Instagram Proof](https://github.com/piombilubicsr/Signers/assets/154801595/dd5ef434-2fe3-4c93-bace-d527df34b3e9)
 
 # [Captcha Solvers]
 - Hcaptcha
@@ -25,9 +25,6 @@
 
 # [Example Bots]
 https://github.com/piombilubicsr/Signers/assets/154801595/602439f8-4a8f-471d-a1b9-fba18a60be65
-
-# [Sources We Sell For Small Users Who Don't Want Native]
-- Yubo Bridge Source
 
 # [Custom Reverse Services]
 - Websites
