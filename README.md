@@ -1,3 +1,5 @@
+# Paid Sponsor: https://gravhosting.com/ ✨WINDOWS & LINUX VPS ✨ CRYPTO / PAYPAL ✨ RYZEN 9 7950X / I9 14900KS ✨
+
 # NOTICE ONLY CONTACT US BELOW DONT FALL VICTIM TO IMPERSONATORS
 
 # Contact Discord: rusocial (794009760755351593)
@@ -50,3 +52,5 @@ https://github.com/user-attachments/assets/bb495016-9534-415b-884a-a0fbdde29fcd
 - Yes Register is working on all signers and does not ban if your flow is proper
 - We Speak Russian/English
 - We Only Accept Crypto Payments at this time
+
+# Paid Sponsor: https://gravhosting.com/ ✨WINDOWS & LINUX VPS ✨ CRYPTO / PAYPAL ✨ RYZEN 9 7950X / I9 14900KS ✨
