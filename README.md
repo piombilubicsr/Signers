@@ -30,13 +30,14 @@ https://github.com/user-attachments/assets/db9e2902-2d69-44b8-aa46-329dcd80383b
 
 https://github.com/user-attachments/assets/bb495016-9534-415b-884a-a0fbdde29fcd
 
-
-
 # [Custom Reverse Services]
 - Websites
 - Android Apps
 - Javascript Deobfuscation / Auth Removal
 - NET Deobfuscation / Auth Removal
+
+# [Snapchat mitmproxy Addon to decrypt grpc/protobuf requests updated 8/2/24]
+- 500$ (per build)
 
 # [Completed Custom Reverses For Sale]
 - WalaOne (https://play.google.com/store/apps/details?id=com.walaplus.walaplusone)
