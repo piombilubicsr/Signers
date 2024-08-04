@@ -15,8 +15,8 @@
 ![Instagram Proof](https://github.com/piombilubicsr/Signers/assets/154801595/dd5ef434-2fe3-4c93-bace-d527df34b3e9)
 
 # [Captcha Solvers]
-- Hcaptcha
-- Recaptcha
+- Hcaptcha (Publisher,Pro,Enterprise)
+- Recaptcha (v2,v3,Enterprise)
 - Yandex
 - Steam
 - Hotmail
